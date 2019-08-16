@@ -27,8 +27,8 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Li Gen and I'm a Second-year master student at Sungkyunkwan University, majoring in Electrical
   and Computer Engineering.
 
-  Research Interests: <mark>Semantic Segmentation</mark> and <mark>Object Detection</mark>
-  <mark>Instance Segmentation</mark>
+  Research Interests: <mark>Semantic Segmentation</mark> <mark>Object Detection</mark>
+  <mark>Instance Segmentation</mark> <mark>Computer Vision</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -42,11 +42,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in Computer Vision some of my other interests and hobbies are:
+   - Badminton
+   - Music
+   - Fitness
 
 # Footer
 footer_show_references: true
