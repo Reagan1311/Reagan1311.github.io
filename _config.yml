@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+# repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
@@ -29,7 +29,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   Education:
   - Sungkyunkwan University, 2018-2020(expected), Suwon, South Korea
-
   - Xidian University, 2014-2018, Xi'an China
 
   Research Interests: <mark>Semantic Segmentation</mark> <mark>Object Detection</mark>
