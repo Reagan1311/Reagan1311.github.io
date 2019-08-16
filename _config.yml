@@ -6,7 +6,7 @@ repository: sproogen/resume-theme
 name: Li Gen
 title: Second-year master student
 email: ligen@skku.edu
-website: https://reagan1311.github.io
+website: https://reagan1311.github.io/
 
 # Social links
 #twitter_username: facespics
@@ -24,24 +24,20 @@ github_username:  Reagan1311
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Li Gen and I'm a Second-year master student at Sungkyunkwan University, majoring in Electrical
+  I am a second-year master student at Sungkyunkwan University, majoring in Electrical
   and Computer Engineering.
+  Before that, I received my B.S. degree from Xidian University in 2018.
 
-  <h4>Education:</h4>
-  - <p>
-  Sungkyunkwan University <br>
-  2018-2020(expected), Suwon, South Korea
+  Research interests: Computer Vision and Deep learning, specifically on the topic of Segmentation and Detection
 
-
-  - Xidian University
-
-  2014-2018, Xi'an China
-
-  Research Interests: <mark>Semantic Segmentation</mark> <mark>Object Detection</mark>
-  <mark>Instance Segmentation</mark> <mark>Computer Vision</mark>
+# Projects Section
+# projects_title: Projects
 
 # Experience Section
 experience_title: Publication
+
+# Education Section
+# educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
