@@ -1,8 +1,8 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: "DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation"
+  link: Gen Li, Joongkyu Kim
+  job_title: BMVC 2019
+  dates: 
   quote: >
    Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
