@@ -1,6 +1,6 @@
 - layout: top-middle
   name: Sungkyunkwan University
-  dates: 2018-2020
+  dates: 2018-2020, Suwon, South Korea
   qualification: M.S. Electrical and Computer Engineering
   quote: >
 #    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -11,7 +11,7 @@
 
 - layout: top-middle
   name: Xidian University
-  dates: 2014-2018
+  dates: 2014-2018, Xi'an, China
   qualification: B.S. Electronic and Information Engineering
   quote: >
   description:
