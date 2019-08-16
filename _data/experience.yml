@@ -1,9 +1,9 @@
 - layout: top
   company: "DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation"
-#  link:
+  link: ""
   job_title:
   <i><b>Gen Li</b>, Joongkyu Kim</i>
-  "British Machine Vision Conference (BMVC), 2019"
+  British Machine Vision Conference (BMVC), 2019
   dates:
     <a href="https://arxiv.org/abs/1907.11357">[paper]</a>
     <a href="https://github.com/Reagan1311/DABNet">[code]</a>
