@@ -27,6 +27,11 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Li Gen and I'm a Second-year master student at Sungkyunkwan University, majoring in Electrical
   and Computer Engineering.
 
+  Education:
+  - Sungkyunkwan University, 2018-2020(expected), Suwon, South Korea
+
+  - Xidian University, 2014-2018, Xi'an China
+
   Research Interests: <mark>Semantic Segmentation</mark> <mark>Object Detection</mark>
   <mark>Instance Segmentation</mark> <mark>Computer Vision</mark>
 
@@ -34,7 +39,7 @@ about_content: | # this will include new lines to allow paragraphs
 # projects_title: Projects
 
 # Experience Section
-# experience_title: Experience
+ experience_title: Publication
 
 # Education Section
 # educaton_title: Education
