@@ -6,7 +6,7 @@ repository: sproogen/resume-theme
 name: Li Gen
 title: Second-year master student
 email: ligen@skku.edu
-website: https://reagan1311.github.io/
+website: https://reagan1311.github.io
 
 # Social links
 #twitter_username: facespics
@@ -27,10 +27,10 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Li Gen and I'm a Second-year master student at Sungkyunkwan University, majoring in Electrical
   and Computer Engineering.
 
-  <h3>Education:</h3>
-  - <p>Sungkyunkwan University <br>
+  <h4>Education:</h4>
+  - <p>
+  Sungkyunkwan University <br>
   2018-2020(expected), Suwon, South Korea
-  </p>
 
 
   - Xidian University
