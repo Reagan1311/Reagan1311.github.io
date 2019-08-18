@@ -3,7 +3,7 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Li Gen
+name: Gen Li
 title: Second-year master student
 email: ligen@skku.edu
 website: https://reagan1311.github.io
@@ -29,8 +29,8 @@ about_content: | # this will include new lines to allow paragraphs
   Before that, I received the bachelor's degree in Electronic and Information Engineering from Xidian University, Xi’an, China, in 2018.
 
   Research interests:
-  - Computer Vision and Deep learning
-  - Topics on Segmentation (semantic, instance, panoptic)
+  - Deep learning and Computer Vision
+  - Image Segmentation (semantic, instance, panoptic)
   - Object Detection
 
 # Projects Section
