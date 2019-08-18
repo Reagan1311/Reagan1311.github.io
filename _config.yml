@@ -30,7 +30,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   Research interests:
   - Computer Vision and Deep learning
-  - Semantic Segmentation, Object Detection and Intance Segmentation
+  - Topics on Segmentation (semantic, instance, panoptic)
+  - Object Detection
 
 # Projects Section
 projects_title: News
