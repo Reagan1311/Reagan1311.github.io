@@ -6,7 +6,7 @@ repository: sproogen/resume-theme
 name: Gen Li
 title: Second-year master student
 email: ligen@skku.edu
-website: https://reagan1311.github.io
+website: reagan1311.github.io
 
 # Social links
 #twitter_username: facespics
@@ -31,13 +31,13 @@ about_content: | # this will include new lines to allow paragraphs
   Research interests:
   - Deep learning and Computer Vision
   - Image Segmentation (semantic, instance, panoptic)
-  - Object Detection
+  - Meta Learning (few-shot learning)
 
 # Projects Section
 projects_title: News
 
 # Experience Section
-experience_title: Publication
+experience_title: Publication <a href="https://scholar.google.com/citations?user=Rfh4mm0AAAAJ&hl=zh-CN">[list]</a>
 
 # Education Section
 # educaton_title: Education
