@@ -18,6 +18,15 @@
     <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8984359">[paper]</a>
   quote:
   description:
+  
+- layout: top
+  company: Edge and Identity Preserving Network for Face Super-Resolution
+  link: Jonghyun Kim, <b>Gen Li</b>, Inyong Yun, Cheolkon Jun, Joongkyu Kim
+  job_title: "Neurocomputing"
+  dates:
+    <a href="">[paper]</a>
+  quote:
+  description:
 
 - layout: top
   company: An Optimized Deep Neural Network Detecting Small and Narrow Rectangular Objects in Google Earth Images
