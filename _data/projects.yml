@@ -21,6 +21,7 @@
   quote:
 #    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
+    - [02/2021] One paper is accepted to Neurocomputing
     - [03/2020] One paper is accepted to IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
     - [01/2020] One paper is accepted to IEEE Access
     - [08/2019] Code for DABNet is released <a href="https://github.com/Reagan1311/DABNet">[code]</a>
