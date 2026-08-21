@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-21'
 papers:
   Rfh4mm0AAAAJ:08ZZubdj9fEC:
     citations: 11
@@ -26,7 +26,7 @@ papers:
     title: Resource-Efficient Affordance Grounding with Complementary Depth and Semantic Prompts
     year: '2025'
   Rfh4mm0AAAAJ:8AbLer7MMksC:
-    citations: 5
+    citations: 6
     title: Action-to-Action Flow Matching
     year: '2026'
   Rfh4mm0AAAAJ:B3FOqHPlNUQC:
@@ -54,7 +54,7 @@ papers:
     title: 'GIVE: Grounding Human Gestures in Vision-Language-Action Models'
     year: '2026'
   Rfh4mm0AAAAJ:K3LRdlH-MEoC:
-    citations: 230
+    citations: 233
     title: Embodied large language models enable robots to complete complex tasks in unpredictable environments
     year: '2025'
   Rfh4mm0AAAAJ:KxtntwgDAa4C:
@@ -70,7 +70,7 @@ papers:
     title: Learning Precise Affordances from Egocentric Videos for Robotic Manipulation
     year: '2024'
   Rfh4mm0AAAAJ:SeFeTyx0c_EC:
-    citations: 72
+    citations: 73
     title: Edge and identity preserving network for face super-resolution
     year: '2021'
   Rfh4mm0AAAAJ:UxriW0iASnsC:
@@ -86,7 +86,7 @@ papers:
     title: 'World Model for Robot Learning: A Comprehensive Survey'
     year: '2026'
   Rfh4mm0AAAAJ:XiSMed-E-HIC:
-    citations: 6
+    citations: 7
     title: Principles of Visual Tokens for Efficient Video Understanding
     year: '2024'
   Rfh4mm0AAAAJ:XiVPGOgt02cC:
@@ -134,11 +134,11 @@ papers:
     title: 'Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation'
     year: '2026'
   Rfh4mm0AAAAJ:l7t_Zn2s7bgC:
-    citations: 59
+    citations: 60
     title: 'Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding'
     year: '2025'
   Rfh4mm0AAAAJ:ldfaerwXgEUC:
-    citations: 423
+    citations: 424
     title: 'DABNet: Depth-wise asymmetric bottleneck for real-time semantic segmentation'
     year: '2019'
   Rfh4mm0AAAAJ:mvPsJ3kp5DgC:
@@ -158,7 +158,7 @@ papers:
     title: 'PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation'
     year: '2026'
   Rfh4mm0AAAAJ:tOudhMTPpwUC:
-    citations: 2
+    citations: 3
     title: Dual Enhancement on 3D Vision-Language Perception for Monocular 3D Visual Grounding
     year: '2025'
   Rfh4mm0AAAAJ:wbdj-CoPYUoC:
