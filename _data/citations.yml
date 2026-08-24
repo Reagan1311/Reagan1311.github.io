@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-24'
 papers:
   Rfh4mm0AAAAJ:08ZZubdj9fEC:
     citations: 11
@@ -54,7 +54,7 @@ papers:
     title: 'GIVE: Grounding Human Gestures in Vision-Language-Action Models'
     year: '2026'
   Rfh4mm0AAAAJ:K3LRdlH-MEoC:
-    citations: 233
+    citations: 240
     title: Embodied large language models enable robots to complete complex tasks in unpredictable environments
     year: '2025'
   Rfh4mm0AAAAJ:KxtntwgDAa4C:
@@ -82,7 +82,7 @@ papers:
     title: 'MARS Policy: Multimodality Only When It Matters'
     year: '2026'
   Rfh4mm0AAAAJ:VOx2b1Wkg3QC:
-    citations: 13
+    citations: 14
     title: 'World Model for Robot Learning: A Comprehensive Survey'
     year: '2026'
   Rfh4mm0AAAAJ:XiSMed-E-HIC:
@@ -94,7 +94,7 @@ papers:
     title: '-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation'
     year: '2026'
   Rfh4mm0AAAAJ:_xSYboBqXhAC:
-    citations: 676
+    citations: 677
     title: Adaptive Prototype Learning and Allocation for Few-Shot Segmentation
     year: '2021'
   Rfh4mm0AAAAJ:abG-DnoFyZgC:
@@ -134,7 +134,7 @@ papers:
     title: 'Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation'
     year: '2026'
   Rfh4mm0AAAAJ:l7t_Zn2s7bgC:
-    citations: 60
+    citations: 61
     title: 'Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding'
     year: '2025'
   Rfh4mm0AAAAJ:ldfaerwXgEUC:
@@ -150,7 +150,7 @@ papers:
     title: Referenceless User Controllable Semantic Image Synthesis
     year: '2023'
   Rfh4mm0AAAAJ:pqnbT2bcN3wC:
-    citations: 56
+    citations: 57
     title: Depth-wise asymmetric bottleneck with point-wise aggregation decoder for real-time semantic segmentation in urban scenes
     year: '2020'
   Rfh4mm0AAAAJ:sSrBHYA8nusC:
